@@ -4,6 +4,7 @@
 
 You can access the Dapp right now at [https://linea-canvas.vercel.app/](https://linea-canvas.vercel.app/)
 
+![Violet and green simple art school logo](https://github.com/user-attachments/assets/ad6a4b3b-ec7f-4097-a497-058c1798f0ce)
 
 ## **Key Features**
 
