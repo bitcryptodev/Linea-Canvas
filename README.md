@@ -10,7 +10,7 @@ You can access the Dapp right now at [https://linea-canvas.vercel.app/](https://
 
 - **64x64 Collaborative Canvas:** A fixed-size canvas where users can paint pixels individually or apply entire images.
 - **PaintTokens (ERC20):** A cryptocurrency used to set pixel colors, ensuring secure and transparent transactions.
-- **Smart Contract Integration:** Utilizes Solidity contracts deployed on Neo Testnet.
+- **Smart Contract Integration:** Utilizes Solidity contracts deployed on Linea Sepolia.
 - **Image Upload Capability:** Allows users to upload images, which can be applied to specific areas of the canvas by selecting designated regions.
 - **User-Friendly Frontend:** An intuitive Next.js interface that facilitates easy interaction with the canvas, token purchases, and image uploads.
 
