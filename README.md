@@ -5,7 +5,6 @@
 You can access the Dapp right now at [https://linea-canvas.vercel.app/](https://linea-canvas.vercel.app/)
 
 
-
 ## **Key Features**
 
 - **64x64 Collaborative Canvas:** A fixed-size canvas where users can paint pixels individually or apply entire images.
